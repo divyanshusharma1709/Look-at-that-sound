@@ -1,0 +1,18 @@
+name: cv-proj
+channels:
+  - defaults
+dependencies:
+  - python=3.10.6
+  - ipykernel
+  - jupyter
+  - pandas
+  - pillow
+  - tqdm
+  - ffmpeg-python
+  - matplotlib
+  - sox
+  - black
+  - isort
+  - transformers
+  - pip:
+    - torchinfo
