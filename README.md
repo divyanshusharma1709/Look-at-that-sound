@@ -4,7 +4,7 @@ An attempt at using a deep generative diffusion-based model to generate images g
 ## Sample output: 
 ![Sample output](generated.png)
 
-## Project files: 
+## Files: 
 * `audio_embedder.py`: contains the audio embedder code that produces the conditioning state for the diffusion model
 * `data_utils.py`: Dataset and data loading utilities
 * `extract_best_frames.py`: A script that extracts a representative frame from a video by choosing a frame (from a
